@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=hasanaraji&style=flat-square&color=blue" alt=""/>
 
  👋 Hi!
-  I’m @Hasanaraji.
-    I’m a Data Scientist and I’m very interested in A.I. and M.L.
+  I’m @Hasanaraji, a Data Scientist and I’m very interested in A.I. and M.L.
+    </a>
     📫 You can reach me via email: hasanaraji9@gmail.com
 
 <!---
