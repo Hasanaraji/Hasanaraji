@@ -7,7 +7,7 @@
 
 
   👋 Hi!
-I’m @Hasanaraji, and I'm a Data Scientist.
+My name is Hasan A-Raji, and I'm a Data Scientist.
   </a>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
