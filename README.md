@@ -25,7 +25,7 @@ I’m @Hasanaraji, and I'm a Data Scientist.
 
 - :zap: In my free time, I play chess and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/hasan_a-raji)) and via email: hasanaraji9@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Hasan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/hasan_a-raji)) and via email: hasanaraji9@gmail.com
 
 <!---
 Hasanaraji/Hasanaraji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
