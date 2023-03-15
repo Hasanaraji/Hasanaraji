@@ -6,12 +6,11 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=hasanaraji&style=flat-square&color=blue" alt=""/>
-
-  👋 Hi!
-  I’m @Hasanaraji, a Data Scientist and I’m very interested in Artificial Intelligence and Machine Learning.
-   </a>
-    </div>
-      📫 You can reach me via email: hasanaraji9@gmail.com
+👋 Hi!
+I’m @Hasanaraji, a Data Scientist and I’m very interested in Artificial Intelligence and Machine Learning.
+  </a>
+</div>
+  📫 You can reach me via email: hasanaraji9@gmail.com
 
 <!---
 Hasanaraji/Hasanaraji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
