@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  </div>
   <img src="https://komarev.com/ghpvc/?username=hasanaraji&style=flat-square&color=blue" alt=""/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/hasan_a-raji">
