@@ -6,7 +6,8 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=hasanaraji&style=flat-square&color=blue" alt=""/>
-👋 Hi!
+
+  👋 Hi!
 I’m @Hasanaraji, a Data Scientist and I’m very interested in Artificial Intelligence and Machine Learning.
   </a>
 </div>
