@@ -14,9 +14,8 @@ I’m @Hasanaraji, and I'm a Data Scientist.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div align="left">
 ---
-
+<div align="left">
 ### :technologist: About Me :
 
 - :telescope: I recently completed my Data Science course at Explore AI Academy.
