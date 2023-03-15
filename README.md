@@ -10,6 +10,9 @@
   👋 Hi!
 I’m @Hasanaraji, a Data Scientist and I’m very interested in Artificial Intelligence and Machine Learning.
   </a>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
   📫 You can reach me via email: hasanaraji9@gmail.com
 
