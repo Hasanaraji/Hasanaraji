@@ -20,6 +20,8 @@ My name is Hasan A-Raji, and I'm a Data Scientist.
 
 - :telescope: I recently completed my Data Science course at Explore AI Academy.
 
+- 🏫 Rounding up an MSc in Operations management and have a background in Mechanical engineering.
+  
 - :seedling: I’m very interested in Artificial Intelligence and Machine Learning.
 
 - :zap: In my free time, I play chess and read tech articles.
